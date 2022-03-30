@@ -2,7 +2,7 @@
 
 **I'm a software crafter, currently senior consultant & CTO @ [Zenika Montréal](https://www.zenika.ca)**
 
-I am a passionate developer for more than 13 years. Convinced that working software is good but not enough, I work with my clients mainly as a Tech Lead in agile projects to build well-crafted software. I have worked as a Tech Lead for high stakes projects such as government websites or international sports tournaments websites.
+I am a passionate developer for more than 15 years. Convinced that working software is good but not enough, I work with my clients mainly as a Tech Lead in agile projects to build well-crafted software. I have worked as a Tech Lead for high stakes projects such as government websites or international sports tournaments websites.
 
 I also like to share my knowledge and therefore I am a trainer on software development practices such as [Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development), and I regularly present talks in meetups or conferences such as [Devoxx France](https://www.devoxx.fr/). 
 
