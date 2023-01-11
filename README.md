@@ -1,21 +1,18 @@
 ### Bonjour|Hi 👋 I'm Damien!
 
-**I'm a software crafter, currently CTO & senior consultant @ [Zenika Canada](https://zenika.ca) and owner @ [CLWeb Charlevoix](https://clweb-charlevoix.ca/)**
+**I'm a freelance software crafter, owner @ [CLWeb Charlevoix](https://clweb-charlevoix.ca/)**
 
-I am a passionate developer for more than 15 years. Convinced that working software is good but not enough, I work with my clients mainly as a Tech Lead in agile projects to build well-crafted software. I have worked as a Tech Lead for high stakes projects such as government websites or international sports tournaments websites.
+With more than 15 years of experience in software development, I started my own business after spending more than half of my career as an IT consultant in companies of different industries (banking, insurance, energy, utilities, media, sports...) and different sizes (from small companies to multinationals). I live in Quebec, and I speak English and French.
 
-I also like to share my knowledge and therefore I am a trainer on software development practices such as [Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development), and I regularly present talks in meetups or conferences such as [Devoxx France](https://www.devoxx.fr/). 
+I am a full stack developer since the beginning of my career, and I have a major historical expertise in Java / Spring backend, framework for which I am certified (Spring Professional in 2020).
+I was a consultant for almost 10 years, and in my last experience before my entrepreneurial leap, I was CTO of an IT consulting company for more than 3 years, in parallel to my role as a software developer and senior consultant.
 
-Finally, I am a co-organizer of the [Software Crafters Montreal meetup](https://www.meetup.com/Software-Crafters-Montreal/) and co-founder of the [SoCraTes Canada conference](http://socrates-ca.github.io/).
+Designing quality software is my passion, and I like to be proud of the work done. In addition to my mandates, I spend a lot of time constantly training myself to stay on top of the latest technology, in order to be able to provide the best solutions to your various challenges.
 
-I can help you if you have one of these symptoms:
-* Difficulties to add new features to an existing legacy codebase
-* More time spent to fix bugs than to add new features
-* No clear definition of what clean code or software quality are
-* Not sure how to write good automated tests and which kind of tests you should write
-* Too much technical debt
-* Having still the same issues even when working on a codebase started less than 1 year ago
-* Willing to create a well-crafted software that you won't throw away in 3 years
+I am an expert in the quality of development practices, also called Software Craftsmanship practices (practices such as Clean Code, Refactoring, Test Driven Development...) and I am certified on several technologies as well as on the eco-design of digital services (GreenIT).
+I also had the opportunity to be a speaker in famous technical conferences such as Devoxx in France or Web À Québec.
+
+I like to develop scalable and maintainable software in a team, and to share this know-how with others. I like to work with inclusive and caring teams, who also practice these software development techniques, or who wish to progress on them.
 
 Feel free to contact me or visit my [personal website](https://damienbeaufils.dev/)!
 
