@@ -18,5 +18,5 @@ Feel free to contact me or visit my [personal website](https://damienbeaufils.de
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=damienbeaufils&show_icons=true&count_private=true"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=damienbeaufils&show_icons=true&include_all_commits=true&count_private=true"/>
 <img align="left" src="https://github.com/damienbeaufils/damienbeaufils/blob/main/595168-pivotal-bdg-prof-vmw-spring-color.png" height="150px"/>
