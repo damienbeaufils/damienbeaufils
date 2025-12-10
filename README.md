@@ -10,8 +10,6 @@ My technical expertise lies in team dynamics and development quality practices, 
 
 Today, I serve as Director of Engineering at Kumojin, in addition to my roles as software developer and senior consultant.
 
-My detailed resume is available online: https://cv.damienbeaufils.dev/
-
 ---
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=damienbeaufils&show_icons=true&include_all_commits=true&count_private=true"/>
