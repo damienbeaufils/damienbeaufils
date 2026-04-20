@@ -12,5 +12,6 @@ Today, I serve as Director of Engineering at Kumojin, in addition to my roles as
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=damienbeaufils&show_icons=true&include_all_commits=true&count_private=true"/>
-<img align="left" src="https://github.com/damienbeaufils/damienbeaufils/blob/main/595168-pivotal-bdg-prof-vmw-spring-color.png" height="150px"/>
+![damienbeaufils's Stats](https://github-readme-stats.vercel.app/api?username=damienbeaufils&theme=default&show_icons=true&hide_border=false&count_private=true)
+![damienbeaufils's Streak](https://github-readme-streak-stats.herokuapp.com/?user=damienbeaufils&theme=default&hide_border=false)
+![damienbeaufils's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=damienbeaufils&theme=default&show_icons=true&hide_border=false&layout=compact)
