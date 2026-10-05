@@ -4,7 +4,7 @@
 
 I've been building software for almost 20 years. I started as a developer and tech lead in consulting, working for clients in banking, insurance, retail, utilities, media, government, and even sports (I led the rebuild of rolandgarros.com). From 2018 to 2022 I was CTO of Zenika Canada, where the team grew from 15 to about 40 people.
 
-What I'm passionate about today is helping and supporting people, both technically and personally. At Kumojin I lead an 18-person engineering team, and I still design systems and review code. I'm also the fractional CTO for UseDrop, a US SaaS.
+What I'm passionate about today is helping and supporting people, both technically and personally. At Kumojin I lead an 18-person engineering team, and I still design systems and review code. I'm also the fractional CTO for UseDrop, a US SaaS client of Kumojin.
 
 My technical interests are team dynamics and development quality practices, also known as Software Craftsmanship (TDD, clean code, pair and mob programming), and more recently AI coding agents and spec-driven development. I've given talks on these topics:
 
